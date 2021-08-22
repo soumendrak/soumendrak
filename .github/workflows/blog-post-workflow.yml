@@ -12,7 +12,7 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - uses: actions/checkout@v2
-     - uses: soumendrak/blog-post-workflow@master
+     - uses: gautamkrishnar/blog-post-workflow@master
        with:
          # Replace this URL with your rss feed URL/s
          feed_list: "https://soumendrak.hashnode.dev/rss.xml"
