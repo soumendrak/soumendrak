@@ -3,7 +3,7 @@
 - [Cool Python tricks you are not using, but you should.](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
 - [Do you know all the usage of the Underscore in Python?](https://blog.soumendrak.com/do-you-know-all-the-usage-of-the-underscore-in-python)
 - [5 usages of an asterisk (*) in Python](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
-- [lru_cache with timeout in Python](https://blog.soumendrak.com/lrucache-with-timeout-in-python)
+- [Cache heavy computation functions with a timeout value](https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value)
 - [Digital Twin](https://blog.soumendrak.com/digital-twin-introduction)
 <!-- BLOG-POST-LIST:END -->
 
