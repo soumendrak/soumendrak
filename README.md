@@ -17,7 +17,30 @@
 - [Role mappings of all matched users in Elasticsearch](https://stackoverflow.com/questions/62864570/role-mappings-of-all-matched-users-in-elasticsearch)
 - [undefined variable name while checking if-else conditions in go](https://stackoverflow.com/questions/61705899/undefined-variable-name-while-checking-if-else-conditions-in-go)
 <!-- STACKOVERFLOW:END -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soumendrak&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+## 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=soumendrak&theme=dark&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
+
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Soumendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=soumendrak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Soumendra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumendrak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
 [![Soumendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=soumendrak&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
