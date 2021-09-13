@@ -17,7 +17,7 @@
 - [Role mappings of all matched users in Elasticsearch](https://stackoverflow.com/questions/62864570/role-mappings-of-all-matched-users-in-elasticsearch)
 - [undefined variable name while checking if-else conditions in go](https://stackoverflow.com/questions/61705899/undefined-variable-name-while-checking-if-else-conditions-in-go)
 <!-- STACKOVERFLOW:END -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soumendrak)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soumendrak&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 If you like my work, you can 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/soumendrak)
