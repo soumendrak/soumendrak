@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Lead+Systems+Engineer;Senior+Python+Developer;Open+source+contributor;AWS%2C+Azure%2C+Docker%2C+Kubernetes)](https://git.io/typing-svg)
+
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Cool Python tricks you are not using, but you should.](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
@@ -15,6 +17,7 @@
 - [Role mappings of all matched users in Elasticsearch](https://stackoverflow.com/questions/62864570/role-mappings-of-all-matched-users-in-elasticsearch)
 - [undefined variable name while checking if-else conditions in go](https://stackoverflow.com/questions/61705899/undefined-variable-name-while-checking-if-else-conditions-in-go)
 <!-- STACKOVERFLOW:END -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=soumendrak)](https://git.io/streak-stats)
 
 If you like my work, you can 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/soumendrak)
