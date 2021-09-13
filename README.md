@@ -18,6 +18,8 @@
 - [undefined variable name while checking if-else conditions in go](https://stackoverflow.com/questions/61705899/undefined-variable-name-while-checking-if-else-conditions-in-go)
 <!-- STACKOVERFLOW:END -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=soumendrak&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Soumendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=soumendrak&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 If you like my work, you can 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/soumendrak)
