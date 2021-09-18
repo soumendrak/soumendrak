@@ -2,11 +2,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [About me](https://blog.soumendrak.com/about-me)
 - [Eight steps on how did I get promoted four times in the last nine years?](https://blog.soumendrak.com/eight-steps-on-how-did-i-get-promoted-four-times-in-the-last-nine-years)
 - [Cool Python tricks you are not using, but you should.](https://blog.soumendrak.com/cool-python-tricks-you-are-not-using-but-you-should)
 - [Do you know all the usage of the Underscore in Python?](https://blog.soumendrak.com/do-you-know-all-the-usage-of-the-underscore-in-python)
 - [5 usages of an asterisk (*) in Python](https://blog.soumendrak.com/5-usages-of-an-asterisk-in-python)
-- [Cache heavy computation functions with a timeout value](https://blog.soumendrak.com/cache-heavy-computation-functions-with-a-timeout-value)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
