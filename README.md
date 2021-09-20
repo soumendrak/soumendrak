@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Lead+Systems+Engineer;Senior+Python+Developer;Open+source+contributor;AWS%2C+Azure%2C+Docker%2C+Kubernetes)](https://git.io/typing-svg)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=soumendrak)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
