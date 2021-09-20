@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Lead+Systems+Engineer;Senior+Python+Developer;Open+source+contributor;AWS%2C+Azure%2C+Docker%2C+Kubernetes)](https://git.io/typing-svg)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=soumendrak)
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -20,6 +19,8 @@
 - [Role mappings of all matched users in Elasticsearch](https://stackoverflow.com/questions/62864570/role-mappings-of-all-matched-users-in-elasticsearch)
 - [undefined variable name while checking if-else conditions in go](https://stackoverflow.com/questions/61705899/undefined-variable-name-while-checking-if-else-conditions-in-go)
 <!-- STACKOVERFLOW:END -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🔥 Streak stats
 
