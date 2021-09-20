@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Lead+Systems+Engineer;Senior+Python+Developer;Open+source+contributor;AWS%2C+Azure%2C+Docker%2C+Kubernetes)](https://git.io/typing-svg)
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=soumendrak)
+
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [About me](https://blog.soumendrak.com/about-me)
@@ -42,7 +44,6 @@
 
 
 [![Soumendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=soumendrak&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 If you like my work, you can 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/soumendrak)
