@@ -50,7 +50,7 @@
 If you like my work, you can 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/soumendrak)
 
-<a href="https://www.codementor.io/@soumendras?refer=badge"><img src="https://www.codementor.io/m-badges/soumendras/find-me-on-cm-g.svg" alt="Codementor badge"></a>
+[![Contact me on Codementor](https://www.codementor.io/m-badges/soumendrak/find-me-on-cm-g.svg)](https://www.codementor.io/@soumendrak?refer=badge)
 <!--
 **soumendrak/soumendrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
