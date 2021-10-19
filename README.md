@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Random Odia Name Generator](https://blog.soumendrak.com/random-odia-name-generator)
 - [Clear the third round for a Lead Engineer](https://blog.soumendrak.com/system-design-interview-experience)
 - [Odia language detection](https://blog.soumendrak.com/odia-language-detection)
 - [Public speaking](https://blog.soumendrak.com/public-speaking)
 - [About me](https://blog.soumendrak.com/about-me)
-- [Eight steps on how did I get promoted four times in the last nine years?](https://blog.soumendrak.com/eight-steps-on-how-did-i-get-promoted-four-times-in-the-last-nine-years)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
