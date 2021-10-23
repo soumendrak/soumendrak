@@ -20,8 +20,6 @@
 - [undefined variable name while checking if-else conditions in go](https://stackoverflow.com/questions/61705899/undefined-variable-name-while-checking-if-else-conditions-in-go)
 <!-- STACKOVERFLOW:END -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ## 🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -65,3 +63,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
