@@ -15,7 +15,7 @@
 <!-- STACKOVERFLOW:START -->
 - [Elasticsearch compound query formation](https://stackoverflow.com/questions/68356218/elasticsearch-compound-query-formation)
 - [Write a CSV file asynchronously in Python](https://stackoverflow.com/questions/63324327/write-a-csv-file-asynchronously-in-python)
-- [Unable to validate the 'required' properties in an array of a JSON](https://stackoverflow.com/questions/63111844/unable-to-validate-the-required-properties-in-an-array-of-a-json)
+- [Unable to validate the &#39;required&#39; properties in an array of a JSON](https://stackoverflow.com/questions/63111844/unable-to-validate-the-required-properties-in-an-array-of-a-json)
 - [Role mappings of all matched users in Elasticsearch](https://stackoverflow.com/questions/62864570/role-mappings-of-all-matched-users-in-elasticsearch)
 - [undefined variable name while checking if-else conditions in go](https://stackoverflow.com/questions/61705899/undefined-variable-name-while-checking-if-else-conditions-in-go)
 <!-- STACKOVERFLOW:END -->
