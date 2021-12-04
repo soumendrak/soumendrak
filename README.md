@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrape News website using Scrapy](https://blog.soumendrak.com/scrape-news-website-using-scrapy)
 - [Random Odia Name Generator](https://blog.soumendrak.com/random-odia-name-generator)
 - [Clear the third round for a Lead Engineer](https://blog.soumendrak.com/system-design-interview-experience)
 - [Odia language detection](https://blog.soumendrak.com/odia-language-detection)
 - [Public speaking](https://blog.soumendrak.com/public-speaking)
-- [About me](https://blog.soumendrak.com/about-me)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
