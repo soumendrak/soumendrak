@@ -4,7 +4,7 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Tech Mahindra interview experience](https://blog.soumendrak.com/tech-mahindra-interview-experience)
+- [Tech Mahindra interview questions](https://blog.soumendrak.com/tech-mahindra-interview-questions)
 - [Scrape News website using Scrapy](https://blog.soumendrak.com/scrape-news-website-using-scrapy)
 - [Life is what you make it](https://blog.soumendrak.com/life-is-what-you-make-it)
 - [Random Odia Name Generator](https://blog.soumendrak.com/random-odia-name-generator)
