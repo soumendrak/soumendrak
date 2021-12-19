@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Sungard AS interview experience](https://blog.soumendrak.com/sungard-as-interview-experience)
 - [Nvidia interview experience](https://blog.soumendrak.com/nvidia-interview-experience)
 - [Tech Mahindra interview questions](https://blog.soumendrak.com/tech-mahindra-interview-questions)
 - [Scrape News website using Scrapy](https://blog.soumendrak.com/scrape-news-website-using-scrapy)
 - [Life is what you make it](https://blog.soumendrak.com/life-is-what-you-make-it)
-- [Random Odia Name Generator](https://blog.soumendrak.com/random-odia-name-generator)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
