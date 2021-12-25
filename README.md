@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [What is SOPR &lpar;Spent Output Profit Ratio&rpar;?](https://blog.soumendrak.com/what-is-sopr-spent-output-profit-ratio)
 - [Sony interview questions](https://blog.soumendrak.com/sony-interview-questions)
 - [Sungard AS interview experience](https://blog.soumendrak.com/sungard-as-interview-experience)
 - [Nvidia interview experience](https://blog.soumendrak.com/nvidia-interview-experience)
 - [Tech Mahindra interview questions](https://blog.soumendrak.com/tech-mahindra-interview-questions)
-- [Scrape News website using Scrapy](https://blog.soumendrak.com/scrape-news-website-using-scrapy)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
