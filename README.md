@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The story behind Shabdarasa &lpar;ଶବ୍ଦରସ&rpar;](https://blog.soumendrak.com/the-story-behind-shabdarasa)
 - [⛓ ବ୍ଲକ୍‌ଚେନ୍‌ &lpar;Blockchain&rpar;](https://blog.soumendrak.com/blockchain)
 - [Understanding Layer 2 of Blockchain](https://blog.soumendrak.com/understanding-layer-2-of-blockchain)
 - [HCL interview experience](https://blog.soumendrak.com/hcl-interview-experience)
 - [What is SOPR &lpar;Spent Output Profit Ratio&rpar;?](https://blog.soumendrak.com/what-is-sopr-spent-output-profit-ratio)
-- [Sony interview questions](https://blog.soumendrak.com/sony-interview-questions)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
