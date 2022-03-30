@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 tips to become a better Software Architect](https://blog.soumendrak.com/better-software-architect)
 - [Fake DP](https://blog.soumendrak.com/fake-dp)
 - [JP Morgan &amp; Chase interview experience](https://blog.soumendrak.com/jpmc-interview-experience)
 - [The story behind Shabdarasa &lpar;ଶବ୍ଦରସ&rpar;](https://blog.soumendrak.com/the-story-behind-shabdarasa)
 - [⛓ ବ୍ଲକ୍‌ଚେନ୍‌ &lpar;Blockchain&rpar;](https://blog.soumendrak.com/blockchain)
-- [Understanding Layer 2 of Blockchain](https://blog.soumendrak.com/understanding-layer-2-of-blockchain)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
