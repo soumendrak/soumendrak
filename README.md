@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [🧑🏻‍🦱 -&gt; Why does a clock rotate in the clockwise direction?](https://blog.soumendrak.com/why-does-a-clock-rotate-in-the-clockwise-direction)
 - [Why do we need vector embeddings in NLP?](https://blog.soumendrak.com/why-do-we-need-vector-embeddings-in-nlp)
 - [10 tips to become a better Software Architect](https://blog.soumendrak.com/better-software-architect)
 - [Fake DP](https://blog.soumendrak.com/fake-dp)
 - [JP Morgan &amp; Chase interview experience](https://blog.soumendrak.com/jpmc-interview-experience)
-- [The story behind Shabdarasa &lpar;ଶବ୍ଦରସ&rpar;](https://blog.soumendrak.com/the-story-behind-shabdarasa)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
