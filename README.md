@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My top browser extensions / add-ons](https://blog.soumendrak.com/my-top-browser-extensions-add-ons)
 - [ଲୁହା ଜାଲି - ଏକ ବାସ୍ତବତା](https://blog.soumendrak.com/luhaajaali)
 - [ତାରିଖ - ଏକ ସ୍ମୃତିବିହୀନ ସ୍ମୃତି](https://blog.soumendrak.com/date)
 - [Python vs Golang vs Rust](https://blog.soumendrak.com/python-vs-golang-vs-rust)
 - [🧑🏻‍🦱 -&gt; Why does a clock rotate in the clockwise direction?](https://blog.soumendrak.com/why-does-a-clock-rotate-in-the-clockwise-direction)
-- [Why do we need vector embeddings in NLP?](https://blog.soumendrak.com/why-do-we-need-vector-embeddings-in-nlp)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
