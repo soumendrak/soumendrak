@@ -4,11 +4,11 @@
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Aggregate Code timing in Python](https://blog.soumendrak.com/aggregate-code-timing-in-python)
 - [Software Engineering Blogs](https://blog.soumendrak.com/software-engineering-blogs)
 - [My top browser extensions / add-ons](https://blog.soumendrak.com/my-top-browser-extensions-add-ons)
 - [ଲୁହା ଜାଲି - ଏକ ବାସ୍ତବତା](https://blog.soumendrak.com/luhaajaali)
 - [ତାରିଖ - ଏକ ସ୍ମୃତିବିହୀନ ସ୍ମୃତି](https://blog.soumendrak.com/date)
-- [Python vs Golang vs Rust](https://blog.soumendrak.com/python-vs-golang-vs-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
