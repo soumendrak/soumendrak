@@ -61,11 +61,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Book Highlights: A Century Is Not Enough](https://blog.soumendrak.com/book-highlights-a-century-is-not-enough)
 - [Interview experience in Byjus](https://blog.soumendrak.com/interview-experience-in-byjus)
 - [Street Views in Bhubaneswar](https://blog.soumendrak.com/street-views-in-bhubaneswar)
 - [Productive Mac Apps](https://blog.soumendrak.com/productive-mac-apps)
 - [Aggregate Code timing in Python](https://blog.soumendrak.com/aggregate-code-timing-in-python)
-- [Top Software Engineering Blogs](https://blog.soumendrak.com/top-software-engineering-blogs)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
