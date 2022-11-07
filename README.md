@@ -61,11 +61,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Python Programming](https://blog.soumendrak.com/learn-python-programming)
 - [PWA: Progressive Web App](https://blog.soumendrak.com/pwa-progressive-web-app)
 - [ML academics vs ML production](https://blog.soumendrak.com/ml-academics-vs-ml-production)
 - [Book Highlights: The Indigo story](https://blog.soumendrak.com/highlights-the-indigo-story)
 - [Book Highlights: A Century Is Not Enough](https://blog.soumendrak.com/book-highlights-a-century-is-not-enough)
-- [Interview experience in Byjus](https://blog.soumendrak.com/interview-experience-in-byjus)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
