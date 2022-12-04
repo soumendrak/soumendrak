@@ -70,11 +70,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Soumendra for How to extract values from a while loop to print in python?](https://stackoverflow.com/questions/74673156/how-to-extract-values-from-a-while-loop-to-print-in-python/74673209#74673209)
 - [Answer by Soumendra for I can&#39;t understand what&#39;s wrong - Python multiple text replace dictionary](https://stackoverflow.com/questions/74672969/i-cant-understand-whats-wrong-python-multiple-text-replace-dictionary/74673094#74673094)
 - [Answer by Soumendra for It keeps on saying IndexError: String Index out of range](https://stackoverflow.com/questions/74587344/it-keeps-on-saying-indexerror-string-index-out-of-range/74587383#74587383)
 - [Answer by Soumendra for How to fix parsing go.mod module declares its path as &quot;x&quot; but was required as &quot;y&quot;](https://stackoverflow.com/questions/61311436/how-to-fix-parsing-go-mod-module-declares-its-path-as-x-but-was-required-as-y/73892287#73892287)
 - [Answer by Soumendra for How to find the statistics and execution times of the code in python](https://stackoverflow.com/questions/13374201/how-to-find-the-statistics-and-execution-times-of-the-code-in-python/73041456#73041456)
-- [Elasticsearch compound query formation](https://stackoverflow.com/questions/68356218/elasticsearch-compound-query-formation)
 <!-- STACKOVERFLOW:END -->
 
 ### Socials
