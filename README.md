@@ -61,11 +61,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT resources](https://blog.soumendrak.com/chatgpt-resources)
+- [Finding RCA of an Issue](https://blog.soumendrak.com/finding-rca-of-an-issue)
+- [Usage of forward slash &lpar;/&rpar; in Python](https://blog.soumendrak.com/usage-of-forward-slash-in-python)
 - [ପରିସ୍ଥିତିର ବାସ୍ତବତା](https://blog.soumendrak.com/situation-reality)
 - [Factory Design Pattern](https://blog.soumendrak.com/factory-design-pattern)
-- [Learn Python Programming](https://blog.soumendrak.com/learn-python-programming)
-- [PWA: Progressive Web App](https://blog.soumendrak.com/pwa-progressive-web-app)
-- [ML academics vs ML production](https://blog.soumendrak.com/ml-academics-vs-ml-production)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
