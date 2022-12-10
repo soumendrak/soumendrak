@@ -56,8 +56,7 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
-
-[![Soumendra's github activity graph](https://activity-graph.herokuapp.com/graph?username=soumendrak&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soumendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soumendrak&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
