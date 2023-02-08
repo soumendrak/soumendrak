@@ -60,11 +60,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Alternatives](https://blog.soumendrak.com/chatgpt-alternatives)
+- [Amazon Interview](https://blog.soumendrak.com/amazon-interview)
 - [Use Chat GPT as a Pro](https://blog.soumendrak.com/use-chat-gpt-as-a-pro)
 - [Top Open source YouTube Extensions in 2023](https://blog.soumendrak.com/top-open-source-youtube-extensions-in-2023)
 - [Python: Built-in Exceptions](https://blog.soumendrak.com/python-built-in-exceptions)
-- [Go: Let&#39;s start](https://blog.soumendrak.com/go-lets-start)
-- [Usage of backward slash &lpar;\&rpar; in Python](https://blog.soumendrak.com/usage-of-backward-slash-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
