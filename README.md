@@ -60,11 +60,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering](https://blog.soumendrak.com/prompt-engineering)
+- [Retrospecting Retrospectives](https://blog.soumendrak.com/retrospecting-retrospectives)
+- [How to access GPT-4](https://blog.soumendrak.com/how-to-access-gpt-4)
 - [Ownership and Borrowing in Rust](https://blog.soumendrak.com/ownership-and-borrowing-in-rust)
 - [How to validate a JSON in Python](https://blog.soumendrak.com/how-to-validate-a-json-in-python)
-- [10 Best Practices for your Python code](https://blog.soumendrak.com/10-best-practices-for-your-python-code)
-- [What is Zero Trust?](https://blog.soumendrak.com/what-is-zero-trust)
-- [10 Python Libraries Every AI/ML Developer Should Know](https://blog.soumendrak.com/10-python-libraries-every-aiml-developer-should-know)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
