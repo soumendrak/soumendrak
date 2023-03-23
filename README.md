@@ -60,11 +60,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Structs in GoLang: A Comprehensive Tutorial](https://blog.soumendrak.com/how-to-use-structs-in-golang-a-comprehensive-tutorial)
 - [@property in Python](https://blog.soumendrak.com/property-in-python)
 - [Prompt Engineering](https://blog.soumendrak.com/prompt-engineering)
 - [Retrospecting Retrospectives](https://blog.soumendrak.com/retrospecting-retrospectives)
 - [How to access GPT-4](https://blog.soumendrak.com/how-to-access-gpt-4)
-- [Ownership and Borrowing in Rust](https://blog.soumendrak.com/ownership-and-borrowing-in-rust)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
