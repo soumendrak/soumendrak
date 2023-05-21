@@ -62,6 +62,9 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 <br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=soumendrak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [ତୁ ପରା ବୋଲାଉ ଉତ୍କଳ ସନ୍ତାନ meaning in English](https://blog.soumendrak.com/tu-para-bolau-utkala-santana)
@@ -86,6 +89,9 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/soumendrak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
  
