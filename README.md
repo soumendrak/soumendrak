@@ -67,11 +67,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MySQL Partition](https://blog.soumendrak.com/mysql-partition)
 - [ତୁ ପରା ବୋଲାଉ ଉତ୍କଳ ସନ୍ତାନ meaning in English](https://blog.soumendrak.com/tu-para-bolau-utkala-santana)
 - [Garbage Collection in Python](https://blog.soumendrak.com/garbage-collection-in-python)
 - [ମାଛମାନେ ଆମ ଭଳି ପାଣି ବାହାରେ କାହିଁକି ରୁହନ୍ତିନି?](https://blog.soumendrak.com/maachha)
 - [__repr__ in Python](https://blog.soumendrak.com/repr-in-python)
-- [How to Use Structs in GoLang: A Comprehensive Tutorial](https://blog.soumendrak.com/how-to-use-structs-in-golang-a-comprehensive-tutorial)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
