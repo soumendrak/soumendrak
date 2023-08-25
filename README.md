@@ -8,7 +8,7 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 *   🌍  I'm based in Bengaluru, India
 *   🖥️  See my portfolio at [MyPortfolio](http://www.soumendrak.com)
-*   ✉️  You can contact me at [me@soumendrak.com](mailto:me@soumendrak.com)
+*   ✉️  You can contact me at [contact@soumendrak.com](mailto:contact@soumendrak.com)
 *   🧠  I'm learning Go
 
 <a href="https://www.twitter.com/soumendrak_" target="_blank" rel="noreferrer"><img
