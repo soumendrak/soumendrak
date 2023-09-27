@@ -67,11 +67,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [An Analysis of PyCon India 2023 Proposals](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals)
 - [Large Language Models History](https://blog.soumendrak.com/large-language-models-history)
 - [Step-by-Step: Migrating from Carrd to Cloudflare Pages](https://blog.soumendrak.com/step-by-step-migrating-from-carrd-to-cloudflare-pages)
 - [MySQL Partition](https://blog.soumendrak.com/mysql-partition)
 - [ତୁ ପରା ବୋଲାଉ ଉତ୍କଳ ସନ୍ତାନ meaning in English](https://blog.soumendrak.com/tu-para-bolau-utkala-santana)
-- [Garbage Collection in Python](https://blog.soumendrak.com/garbage-collection-in-python)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
