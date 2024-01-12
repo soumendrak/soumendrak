@@ -67,11 +67,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [LLMOps: Introduction](https://blog.soumendrak.com/llmops-introduction)
 - [2023: Highlights](https://blog.soumendrak.com/2023-highlights)
 - [Odias in AI/ML Conference 2023](https://blog.soumendrak.com/odias-in-aiml-conference-2023)
 - [PyCon India 2023: Insights from the CFP Workgroup](https://blog.soumendrak.com/pycon-india-2023-insights-from-the-cfp-workgroup)
 - [An Analysis of PyCon India 2023 Proposals](https://blog.soumendrak.com/an-analysis-of-pycon-india-2023-proposals)
-- [Large Language Models History](https://blog.soumendrak.com/large-language-models-history)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
