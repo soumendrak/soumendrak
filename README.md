@@ -67,11 +67,11 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences](https://blog.soumendrak.com/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences)
 - [Usage of &#39;else&#39; in Python](https://blog.soumendrak.com/usage-of-else-in-python)
 - [God mode in a browser](https://blog.soumendrak.com/god-mode-in-a-browser)
 - [LLMOps: Introduction](https://blog.soumendrak.com/llmops-introduction)
 - [2023: Highlights](https://blog.soumendrak.com/2023-highlights)
-- [Odias in AI/ML Conference 2023](https://blog.soumendrak.com/odias-in-aiml-conference-2023)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
