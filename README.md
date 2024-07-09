@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full stack software engineer
 -------------------------------------
 
-I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a backend software engineer. Recently, I got my hands dirty on Front-end development.
+I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a backend software engineer with a can-do knowledge on frontend stack. Currently, I am working on MLOps/LLMOps.
 
 *   🌍  I'm based in Bengaluru, India
 *   🖥️  See my portfolio at [MyPortfolio](http://www.soumendrak.com)
 *   ✉️  You can contact me at [contact@soumendrak.com](mailto:contact@soumendrak.com)
-*   🧠  I'm learning Go
+*   🧠  I'm learning and working on MLOps.
 
 <a href="https://www.twitter.com/soumendrak_" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/soumendrak_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -20,50 +20,33 @@ I have been programming for 14+ years from COBOL to Rust. Predominantly, I am a 
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=soumendrak)
 
-### Skills
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-                                <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-                                <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-                                <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-                                <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-                                <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-                                <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-                                <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
-
-## 🔥 Streak stats
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=soumendrak&theme=dark&hide_border=true"/>
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Soumendra's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=soumendrak&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Soumendra's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumendrak&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
-[![Soumendra's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=soumendrak&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
 
-## 📊 Contribution Graph
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-<br>
+<a href="https://github.com/jessfraz">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=soumendrak&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://github.com/jessfraz">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/jessfraz">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
