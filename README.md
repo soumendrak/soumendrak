@@ -22,29 +22,29 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📊 Github stats
 
-<a href="https://github.com/jessfraz">
+<a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./header.svg" />
 </a>
 <br/>
-<a href="https://github.com/jessfraz">
+<a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./repositories.svg" />
 </a>
-<a href="https://github.com/jessfraz">
+<a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./acti_comm.svg" />
 </a>
 
-<a href="https://github.com/jessfraz">
+<a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
 
-<a href="https://github.com/jessfraz">
+<a href="https://github.com/soumendrak">
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
-<a href="https://github.com/jessfraz">
+<a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
-<a href="https://github.com/jessfraz">
+<a href="https://github.com/soumendrak">
     <img align="center" width="49%" src="./achievements.svg" />
 </a>
 
