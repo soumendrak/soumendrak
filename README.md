@@ -1,22 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soumendra
 =================================================================================================================================
 
-Aspiring Full stack software engineer
--------------------------------------
 
-I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a backend software engineer with a can-do knowledge on frontend stack. Currently, I am working on MLOps/LLMOps.
+I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a backend software engineer with a can-do attitude on the frontend stack. Currently, I am working on MLOps/LLMOps.
 
 *   🌍  I'm based in Bengaluru, India
 *   🖥️  See my portfolio at [MyPortfolio](http://www.soumendrak.com)
 *   ✉️  You can contact me at [contact@soumendrak.com](mailto:contact@soumendrak.com)
 *   🧠  I'm learning and working on MLOps.
 
-<a href="https://www.twitter.com/soumendrak_" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/soumendrak_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a><a href="https://www.github.com/soumendrak" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/soumendrak?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=1000&lines=Lead+Systems+Engineer;Senior+Python+Developer;Open+source+contributor;AWS%2C+Azure%2C+Docker%2C+Kubernetes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Lead+MLOps+Engineer;Lead+Backend+Engineer;Jr.+Frontend+Developer;Technical+Leader;Open+Source+Committer;M.Tech+in+Data+Science;AWS+ML+Specialty+certified;YouTuber;Volunteer)](https://git.io/typing-svg)
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=soumendrak)
 
