@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Tools](https://www.soumendrak.com/posts/ai-tools/)
 - [Semaphores in Python Async Programming Real-World Use Cases](https://www.soumendrak.com/posts/semaphores-python-async-programming/)
 - [Patching a memory leak](https://www.soumendrak.com/posts/patching-a-memory-leak/)
 - [Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences](https://www.soumendrak.com/posts/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences/)
 - [Usage of &#39;else&#39; in Python](https://www.soumendrak.com/posts/usage-of-else-in-python/)
-- [God mode in a browser](https://www.soumendrak.com/posts/god-mode-in-a-browser/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
