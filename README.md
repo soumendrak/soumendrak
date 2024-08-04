@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Production Readiness Checklist](https://www.soumendrak.com/posts/production-readiness-checklist/)
 - [Basic Python interview questions and answers for beginners](https://www.soumendrak.com/posts/basic-python-questions/)
 - [AI Tools](https://www.soumendrak.com/posts/ai-tools/)
 - [Semaphores in Python Async Programming Real-World Use Cases](https://www.soumendrak.com/posts/semaphores-python-async-programming/)
 - [Patching a memory leak](https://www.soumendrak.com/posts/patching-a-memory-leak/)
-- [Comparing DevOps, DataOps, AIOps, MLOps, and LLMOps: Key Differences](https://www.soumendrak.com/posts/comparing-devops-dataops-aiops-mlops-and-llmops-key-differences/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
