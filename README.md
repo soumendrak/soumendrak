@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Insider view of OdishaAI 2024](https://www.soumendrak.com/blog/oai-2024/)
 - [attrs in Python](https://www.soumendrak.com/blog/attrs/)
 - [Production Readiness Checklist](https://www.soumendrak.com/blog/production-readiness-checklist/)
 - [Basic Python interview questions and answers for beginners](https://www.soumendrak.com/blog/basic-python-questions/)
 - [AI Tools](https://www.soumendrak.com/blog/ai-tools/)
-- [Semaphores in Python Async Programming Real-World Use Cases](https://www.soumendrak.com/blog/semaphores-python-async-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
