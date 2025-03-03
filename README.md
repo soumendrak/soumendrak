@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a backend software engineer with a can-do attitude on the frontend stack. Currently, I am working on MLOps/LLMOps.
 
-*   🌍  I'm based in Bengaluru, India
+*   🌍  I'm based in Hyderabad, India
 *   🖥️  See my portfolio at [MyPortfolio](http://www.soumendrak.com)
 *   ✉️  You can contact me at [contact@soumendrak.com](mailto:contact@soumendrak.com)
-*   🧠  I'm learning and working on MLOps.
+*   🧠  I'm learning and working on AI Sustainability and Observability.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Lead+MLOps+Engineer;Lead+Backend+Engineer;Jr.+Frontend+Developer;Technical+Leader;Open+Source+Committer;M.Tech+in+Data+Science;AWS+ML+Specialty+certified;YouTuber;Volunteer)](https://git.io/typing-svg)
 
