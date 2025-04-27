@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Stay Informed: My Top RSS Picks](https://www.soumendrak.com/blog/rss-feeds/)
 - [From Naive to Light: The Evolution of RAG Systems](https://www.soumendrak.com/blog/evolution-rag/)
 - [My experience as a Judge in a GenAI hackathon](https://www.soumendrak.com/blog/hydpyhack2025/)
 - [Celebrating Diwali in style](https://www.soumendrak.com/blog/street-lamp-diwali/)
 - [Insider view of OdishaAI 2024](https://www.soumendrak.com/blog/oai-2024/)
-- [attrs in Python](https://www.soumendrak.com/blog/attrs/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
