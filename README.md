@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [About](https://www.soumendrak.com/about/)
 - [The Hidden Cost of LLM-as-a-Judge: When More Evaluation Means Less Value](https://www.soumendrak.com/blog/llm-evals/)
 - [RSS Feed Finder](https://www.soumendrak.com/projects/rss-feed-finder/)
 - [Stay Informed: My Top RSS Picks](https://www.soumendrak.com/blog/rss-feeds/)
 - [From Naive to Light: The Evolution of RAG Systems](https://www.soumendrak.com/blog/evolution-rag/)
-- [My experience as a Judge in a GenAI hackathon](https://www.soumendrak.com/blog/hydpyhack2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
