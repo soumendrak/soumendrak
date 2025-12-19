@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Self-Hosting Journey: From Heroku to Hetzner VPS with Coolify &amp; Proxmox](https://www.soumendrak.com/blog/self-hosting/)
 - [The Three Types of Workplace Power Explained: Role, Relational, and Expertise](https://www.soumendrak.com/blog/three-powers/)
 - [Beyond the Hype: An Executive Playbook for AI Governance &lpar;2025 Edition&rpar;](https://www.soumendrak.com/blog/ai-governance-playbook/)
 - [The Evolution of Human‑Digital Communication: From Penmanship to Brain‑Computer Interfaces](https://www.soumendrak.com/blog/human-digital-communication-evolution/)
 - [Advancing AI Observability: From Metrics to Meaningful Insights](https://www.soumendrak.com/blog/advancing-ai-observability/)
-- [Frequently Asked Questions](https://www.soumendrak.com/faq/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
