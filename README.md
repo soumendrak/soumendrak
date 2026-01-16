@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Speed Reader App: A Prototype That Taught Me More Than It Helped Me Read](https://www.soumendrak.com/blog/2026/01/developing-a-speed-reader/)
 - [Targeted Profiling in Python using tprof](https://www.soumendrak.com/blog/2026/01/targeted-profiling/)
 - [How to become an OpenTelemetry Certified Associate &lpar;OTCA&rpar;](https://www.soumendrak.com/blog/opentelemetry-certification/)
 - [2025: at a glance](https://www.soumendrak.com/blog/2025-at-a-glance/)
 - [Self-Hosting Journey: From Heroku to Hetzner VPS with Coolify &amp; Proxmox](https://www.soumendrak.com/blog/self-hosting/)
-- [The Three Types of Workplace Power Explained: Role, Relational, and Expertise](https://www.soumendrak.com/blog/three-powers/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
