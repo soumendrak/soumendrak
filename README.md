@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Resurrecting an Abandoned Project: CoverView](https://www.soumendrak.com/blog/2026/01/creating-cover-images/)
 - [Building a Speed Reader App: A Prototype That Taught Me More Than It Helped Me Read](https://www.soumendrak.com/blog/2026/01/developing-a-speed-reader/)
 - [Targeted Profiling in Python using tprof](https://www.soumendrak.com/blog/2026/01/targeted-profiling/)
 - [How to become an OpenTelemetry Certified Associate &lpar;OTCA&rpar;](https://www.soumendrak.com/blog/opentelemetry-certification/)
 - [2025: at a glance](https://www.soumendrak.com/blog/2025-at-a-glance/)
-- [Self-Hosting Journey: From Heroku to Hetzner VPS with Coolify &amp; Proxmox](https://www.soumendrak.com/blog/self-hosting/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
