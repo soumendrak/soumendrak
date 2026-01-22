@@ -43,7 +43,7 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Structured Logging in Python using Loguru](https://www.soumendrak.com/blog/2026/01/structured-logging-python/)
+- [1: Structured Logging in Python using Loguru](https://www.soumendrak.com/series/practical-observability-with-python/structured-logging/)
 - [Resurrecting an Abandoned Project: CoverView](https://www.soumendrak.com/blog/2026/01/creating-cover-images/)
 - [Building a Speed Reader App: A Prototype That Taught Me More Than It Helped Me Read](https://www.soumendrak.com/blog/2026/01/developing-a-speed-reader/)
 - [Targeted Profiling in Python using tprof](https://www.soumendrak.com/blog/2026/01/targeted-profiling/)
