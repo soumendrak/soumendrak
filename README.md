@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 05: OTel survey insights, moving to Rybbit, HDD costs, and Meta&#39;s Rust rewrite](https://www.soumendrak.com/notes/2026/week-05/)
 - [AI in AI: What I Learned Analysing AI in the Adult Industry](https://www.soumendrak.com/blog/2026/01/ai-in-the-adult-industry/)
 - [Week 4: Hello World](https://www.soumendrak.com/notes/2026/week-04/)
 - [2: Context Propagation](https://www.soumendrak.com/series/practical-observability-with-python/context-propagation/)
 - [1: Structured Logging in Python using Loguru](https://www.soumendrak.com/series/practical-observability-with-python/structured-logging/)
-- [Resurrecting an Abandoned Project: CoverView](https://www.soumendrak.com/blog/2026/01/creating-cover-images/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
