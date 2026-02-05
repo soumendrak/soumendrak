@@ -47,7 +47,7 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 - [AI in AI: What I Learned Analysing AI in the Adult Industry](https://www.soumendrak.com/blog/2026/01/ai-in-the-adult-industry/)
 - [Week 4: Hello World](https://www.soumendrak.com/weekly-notes/2026/04/)
 - [2: Context Propagation](https://www.soumendrak.com/series/practical-observability-with-python/context-propagation/)
-- [1: Structured Logging in Python using Loguru](https://www.soumendrak.com/series/practical-observability-with-python/structured-logging/)
+- [3: Automatic Tracing with OpenTelemetry](https://www.soumendrak.com/series/practical-observability-with-python/opentelemetry-tracing/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
