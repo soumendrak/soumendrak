@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 06: Learning Notes on Content Creation, AI Agent Evals, Prompt Caching &amp; Mental Models](https://www.soumendrak.com/weekly-notes/2026/06/)
 - [5: Custom Metrics with OpenTelemetry](https://www.soumendrak.com/series/practical-observability-with-python/custom-metrics/)
 - [4: Distributed Tracing: Following a Request Across Services](https://www.soumendrak.com/series/practical-observability-with-python/distributed-tracing/)
 - [3: Automatic Tracing with OpenTelemetry](https://www.soumendrak.com/series/practical-observability-with-python/opentelemetry-tracing/)
 - [Week 05: OTel survey insights, moving to Rybbit, HDD costs, and Meta&#39;s Rust rewrite](https://www.soumendrak.com/weekly-notes/2026/05/)
-- [AI in AI: What I Learned Analysing AI in the Adult Industry](https://www.soumendrak.com/blog/2026/01/ai-in-the-adult-industry/)
 <!-- BLOG-POST-LIST:END -->
 
 ## StackOverflow Activity
