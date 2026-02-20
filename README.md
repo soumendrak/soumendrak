@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 
-I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a backend software engineer with a can-do attitude on the frontend stack. Currently, I am working on MLOps/LLMOps.
+I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a backend software engineer with a can-do attitude on the frontend stack. Currently, I am working on AI Observability.
 
 *   🌍  I'm based in Hyderabad, India
 *   🖥️  See my portfolio at [MyPortfolio](http://www.soumendrak.com)
