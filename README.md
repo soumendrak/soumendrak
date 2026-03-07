@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 10: OpenTelemetry for AI Agents, Context Engineering, and MCP Ecosystem](https://www.soumendrak.com/weekly-notes/2026/10/)
+- [Week 08: Agentic Evals &amp; Observability, Building in Rust, and Small Web Rabbit Holes](https://www.soumendrak.com/weekly-notes/2026/08/)
 - [Miss One Weekend, Fall Behind One Month](https://www.soumendrak.com/blog/2026/02/miss-one-weekend/)
 - [Week 07: Realizing Ignorance in Agents &amp; Observability, Ethical AI &amp; Dropping Readwise](https://www.soumendrak.com/weekly-notes/2026/07/)
 - [Smart, Fast, Easy: How AI Plays An Ethical Part In Modern Business Growth](https://www.soumendrak.com/blog/2026/02/ethical-ai-in-modern-biz/)
-- [Week 06: Learning Notes on Content Creation, AI Agent Evals, Prompt Caching &amp; Mental Models](https://www.soumendrak.com/weekly-notes/2026/06/)
-- [5: Custom Metrics with OpenTelemetry](https://www.soumendrak.com/series/practical-observability-with-python/custom-metrics/)
 <!-- BLOG-POST-LIST:END -->
 
 
