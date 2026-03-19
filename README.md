@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6: Correlating Telemetry Signals , The Pivot Workflow](https://www.soumendrak.com/series/practical-observability-with-python/three-pillars-connected/)
 - [PyConf Hyderabad 2026: A Homecoming I Didn&#39;t Know I Needed](https://www.soumendrak.com/blog/2026/03/pyconf-hyd-2026/)
 - [Week 11: Langfuse, ragwatch and the AI Observability Grind](https://www.soumendrak.com/weekly-notes/2026/11/)
 - [Week 10: OpenTelemetry for AI Agents, Context Engineering, and MCP Ecosystem](https://www.soumendrak.com/weekly-notes/2026/10/)
 - [Week 08: Agentic Evals &amp; Observability, Building in Rust, and Small Web Rabbit Holes](https://www.soumendrak.com/weekly-notes/2026/08/)
-- [Miss One Weekend, Fall Behind One Month](https://www.soumendrak.com/blog/2026/02/miss-one-weekend/)
 <!-- BLOG-POST-LIST:END -->
 
 
