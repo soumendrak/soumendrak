@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8.2: Building Your First OTel Collector Pipeline](https://www.soumendrak.com/series/practical-observability-with-python/otel-collector-mvp/)
+- [8.3: Operating the OTel Collector in Production](https://www.soumendrak.com/series/practical-observability-with-python/otel-collector-prod/)
 - [8.1: Why the OpenTelemetry Collector Exists](https://www.soumendrak.com/series/practical-observability-with-python/otel-collector/)
 - [7: Error Handling &amp; Semantic Instrumentation](https://www.soumendrak.com/series/practical-observability-with-python/error-handling/)
 - [6: Correlating Telemetry Signals , The Pivot Workflow](https://www.soumendrak.com/series/practical-observability-with-python/three-pillars-connected/)
-- [PyConf Hyderabad 2026: A Homecoming I Didn&#39;t Know I Needed](https://www.soumendrak.com/blog/2026/03/pyconf-hyd-2026/)
-- [Week 11: Langfuse, ragwatch and the AI Observability Grind](https://www.soumendrak.com/weekly-notes/2026/11/)
 <!-- BLOG-POST-LIST:END -->
 
 
