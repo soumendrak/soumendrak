@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 15, 2026: Glasswing, Langfuse and the Claude Skills Explosion](https://www.soumendrak.com/weekly-notes/2026/15/)
 - [Week 14, 2026 Claude Skills, Code Internals and Buddhism](https://www.soumendrak.com/weekly-notes/2026/14/)
 - [Week 13, 2026: Supply Chain Attacks, Wide Events and MuleSoft OTel](https://www.soumendrak.com/weekly-notes/2026/13/)
 - [Week 12, 2026 · OpenAI Eats the Python Toolchain, Claude Cowork Scheduling, and AI Observability](https://www.soumendrak.com/weekly-notes/2026/12/)
 - [11: Alerting &amp; Service Level Objectives &lpar;SLOs&rpar;](https://www.soumendrak.com/series/practical-observability-with-python/alerting-slos/)
-- [10: Dashboards &amp; the RED Method](https://www.soumendrak.com/series/practical-observability-with-python/dashboards-red-method/)
 <!-- BLOG-POST-LIST:END -->
 
 
