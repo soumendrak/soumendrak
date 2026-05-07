@@ -19,7 +19,7 @@ focus:
   - AI governance & sustainability
   - Multi-agent system tracing
 building:
-  - ragratch: OTel-native RAG & agent observability SDK
+  - ragwatch: OTel-native RAG & agent observability SDK
   - widescope: browser-native trace viewer (Rust → WASM)
   - observability-engineering-series: 13-part hands-on series
 opensource:
