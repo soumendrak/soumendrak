@@ -1,65 +1,85 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Soumendra
-=================================================================================================================================
+# 👋 I'm Soumendra Kumar Sahoo
 
+**AI Observability Architect** · OpenTelemetry · LLM Agents · Open Source
 
-I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a backend software engineer with a can-do attitude on the frontend stack. Currently, I am working on AI Observability.
+Building the observability layer for the AI era. Currently leading AI observability at PepsiCo, building [ragwatch](https://github.com/soumendrak/ragwatch) (OTel-native SDK for agent observability) and writing the [Practical Observability with Python](https://www.soumendrak.com/series/practical-observability-with-python/) series.
 
-*   🌍  I'm based in Hyderabad, India
-*   🖥️  See my portfolio at [MyPortfolio](http://www.soumendrak.com)
-*   ✉️  You can contact me at [contact@soumendrak.com](mailto:contact@soumendrak.com)
-*   🧠  I'm learning and working on AI Sustainability and Observability.
+[![OTCA](https://img.shields.io/badge/OTCA-Certified-7B3FE4?style=flat&logo=opentelemetry&logoColor=white)](https://www.soumendrak.com/blog/opentelemetry-certification/)
+[![AWS ML](https://img.shields.io/badge/AWS_ML_Specialty-Certified-FF9900?style=flat&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/abd00b47-bde3-438f-bb18-5bdccd7c87ba)
+[![IEEE](https://img.shields.io/badge/IEEE-Publication-00629B?style=flat&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/document/10404195)
+[![BITS Pilani](https://img.shields.io/badge/BITS_Pilani-M.Tech-003366?style=flat&logo=academia&logoColor=white)](https://www.bits-pilani.ac.in/)
+[![Python](https://img.shields.io/badge/Python-16+yrs-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/soumendrak)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Lead+MLOps+Engineer;Lead+Backend+Engineer;Jr.+Frontend+Developer;Technical+Leader;Open+Source+Committer;M.Tech+in+Data+Science;AWS+ML+Specialty+certified;YouTuber;Volunteer)](https://git.io/typing-svg)
+```yaml
+location: Hyderabad, India → Bhubaneswar (planned)
+current: AI Observability Lead @ PepsiCo
+focus:
+  - LLM & agent observability
+  - OpenTelemetry instrumentation
+  - AI governance & sustainability
+  - Multi-agent system tracing
+building:
+  - ragratch: OTel-native RAG & agent observability SDK
+  - widescope: browser-native trace viewer (Rust → WASM)
+  - observability-engineering-series: 13-part hands-on series
+opensource:
+  - OdiaGenAI: AI for the Odia language
+  - openodia.com: portal for Odia OSS tools
+  - Shabdarasa: Odia wordle game (100+ DAU)
+```
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=soumendrak)
+## 📊 GitHub
 
-## 📊 Github stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soumendrak&show_icons=true&count_private=true&hide_border=true&theme=default&hide_rank=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soumendrak&hide_border=true" width="48%" />
+</p>
 
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
+## 📝 Latest from the blog
 
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/soumendrak">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/soumendrak">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
-
-## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Week 15, 2026: Glasswing, Langfuse and the Claude Skills Explosion](https://www.soumendrak.com/weekly-notes/2026/15/)
 - [Week 14, 2026 Claude Skills, Code Internals and Buddhism](https://www.soumendrak.com/weekly-notes/2026/14/)
 - [Week 13, 2026: Supply Chain Attacks, Wide Events and MuleSoft OTel](https://www.soumendrak.com/weekly-notes/2026/13/)
 - [Week 12, 2026 · OpenAI Eats the Python Toolchain, Claude Cowork Scheduling, and AI Observability](https://www.soumendrak.com/weekly-notes/2026/12/)
-- [11: Alerting &amp; Service Level Objectives &lpar;SLOs&rpar;](https://www.soumendrak.com/series/practical-observability-with-python/alerting-slos/)
+- [11: Alerting &amp; Service Level Objectives (SLOs)](https://www.soumendrak.com/series/practical-observability-with-python/alerting-slos/)
 <!-- BLOG-POST-LIST:END -->
 
+## 🔗 Connect
 
-### Socials
-                  
-<p align="left"> <a href="https://www.dev.to/soumendrak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/soumendrak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://soumendrak.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/soumendrak_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/soumendrak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@soumendrak" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/5014656/soumendra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://x.com/soumendrak_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="32" height="32" /></a></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-soumendrak-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/soumendrak)
+[![X](https://img.shields.io/badge/X-@soumendrak_-000000?style=flat&logo=x)](https://x.com/soumendrak_)
+[![DEV](https://img.shields.io/badge/DEV-soumendrak-0A0A0A?style=flat&logo=dev.to)](https://dev.to/soumendrak)
+[![Medium](https://img.shields.io/badge/Medium-@soumendrak-000000?style=flat&logo=medium)](https://medium.com/@soumendrak)
+[![YouTube](https://img.shields.io/badge/YouTube-@openodia-FF0000?style=flat&logo=youtube)](https://youtube.com/@openodia)
+[![Website](https://img.shields.io/badge/Web-soumendrak.com-4285F4?style=flat&logo=google-chrome)](https://www.soumendrak.com)
+[![Stack Overflow](https://img.shields.io/badge/SO-soumendra-F58025?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/5014656/soumendra)
 
-### Support Me
-<a href="https://www.buymeacoffee.com/soumendrak"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<details>
+<summary><b>📄 Detailed background</b></summary>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
- 
+### Experience
+- **AI Observability Lead** @ PepsiCo (2024–present)
+- **Lead MLOps Engineer** @ Freshworks (2021–2024)
+- **AIOps Squad Lead** @ IBM (2018–2021)
+- **Technical Lead** @ Wipro (2016–2018)
+- **Application Development Analyst** @ Accenture (2014–2016)
+- **Systems Engineer** @ TCS (2012–2014)
+
+### Publications & IP
+- **Olive: Instruction Following LLaMA for Odia** — IEEE (2024)
+- **Anomaly Monitoring Patent** — Pending (2023)
+
+### Certifications
+- OpenTelemetry Certified Associate (OTCA)
+- AWS Machine Learning Specialty
+- Azure AI Fundamentals
+
+### Community
+- Organizer: PyCon India 2023
+- CFP Reviewer: PyCon India 2020
+- Core: OdiaGenAI, Odias in AI, openodia.com
+- Wikipedia: Odia language contributor
+</details>
