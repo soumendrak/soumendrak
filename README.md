@@ -43,11 +43,11 @@ I have been programming for 16+ years from COBOL to Rust. Predominantly, I am a 
 
 ## 📩 My latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Week 21, 2026 · May 18-24: TILs, Clicker Games and Google I/O](https://www.soumendrak.com/weekly-notes/2026/21/)
 - [Week 20, 2026 · May 11-17: Two Agents, a Workshop and the Leap of Faith](https://www.soumendrak.com/weekly-notes/2026/20/)
 - [Week 19, 2026 · May 4–10: Digests, Hermes Agent and the Self-Improving Loop](https://www.soumendrak.com/weekly-notes/2026/19/)
 - [Subscribe](https://www.soumendrak.com/subscribe/)
 - [Week 15, 2026: Glasswing, Langfuse and the Claude Skills Explosion](https://www.soumendrak.com/weekly-notes/2026/15/)
-- [Week 14, 2026 Claude Skills, Code Internals and Buddhism](https://www.soumendrak.com/weekly-notes/2026/14/)
 <!-- BLOG-POST-LIST:END -->
 
 
