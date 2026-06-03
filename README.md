@@ -25,7 +25,9 @@ Staff Engineer (AI Observability) at **PepsiCo**. Building tools for AI reliabil
 - 🌐 **[Portfolio](https://soumendrak.com)** — personal website, blog, and project showcase
 - 💡 **[TIL](https://til.soumendra.net)** — daily learnings on AI observability, infra, and tools
 
-## Projects
+## Mini Projects
+
+A collection of single-file, zero-dependency HTML tools — dark theme, orange accent, built in an afternoon.
 
 ### Time & Life
 
@@ -79,49 +81,6 @@ Staff Engineer (AI Observability) at **PepsiCo**. Building tools for AI reliabil
 - 📆 **[Writing Scheduler](https://github.com/soumendrak/writing-scheduler)** — editorial calendar with GitHub commit linking
 - 📚 **[Citation Manager](https://github.com/soumendrak/citation-manager)** — URL metadata → 5 citation formats
 
-### AI & Observability
-
-- 🔭 **[Widescope](https://widescope.soumendrak.com)** — browser-native LLM trace viewer, Rust compiled to WASM
-- 👁️ **[RAGWatch](https://github.com/soumendrak/ragwatch)** — SDK for Python AI agents (under development)
-- 🩹 **[Self-Healing LLM Agent](https://github.com/soumendrak/self-healing-llm-agent)** — detects issues in production traces and auto-remediates
-- 📊 **[Observability Engineering Series](https://www.soumendrak.com/series/practical-observability-with-python/)** — practical observability with Python
-- 🎛️ **[Agents Board](https://github.com/soumendrak/agents-board)** — centralized kanban for agent task management
-- 🖥️ **[Mac AI Observer](https://github.com/soumendrak/mac-ai-observer)** — macOS AI activity monitoring
-
-### Odia Language
-
-- 🏛️ **[Openodia](https://openodia.com)** — Odia NLP tools: diacritic restoration, OCR, syllable analysis, stemmer
-- 🌍 **[Openodia Hub](https://github.com/soumendrak/openodia-hub)** — curated directory of Odia open-source projects
-- 🎮 **[Banu O Odia](https://github.com/soumendrak/banu-o-odia)** — Odia language learning platformer (Phaser 3 + TypeScript)
-- ✍️ **[Odia Transliterator](https://github.com/soumendrak/odia-transliterator)** — romanized Odia to Odia script (fala → ଫଳ)
-- 🔢 **[Odia 2048](https://github.com/soumendrak/odia-2048)** — 2048 with Odia numerals, dark/light mode
-- 🎲 **[Odia Game AddA](https://github.com/soumendrak/odia-game-adda)** — Odia language games collection
-- 🔤 **[Shabdarasa](https://shabdarasa.com)** — advanced Odia wordle game
-
-### More Projects
-
-- 🖼️ **[CoverView](https://cover.soumendrak.com)** — create awesome blog cover images in seconds
-- 🖼️ **[CoverView API](https://github.com/soumendrak/coverview-api)** — Cloudflare Worker + Satori cover generation API
-- 🔗 **[Social Links](https://links.soumendrak.com)** — all social media links in one page
-- 📽️ **[Slides](https://slides.soumendrak.com)** — all my presentations in one place
-- 🏖️ **[Retirement Planner](https://github.com/soumendrak/retirement-planner)** — offline desktop app to count the years
-- 📖 **[AI Curriculum](https://github.com/soumendrak/ai-curriculum)** — 14-week AI curriculum for +2 students
-- 🏗️ **[Blueprint Swing](https://github.com/soumendrak/blueprint-swing)** — swing trading blueprint
-- 💡 **[TIL](https://til.soumendra.net)** — today I learned: AI observability, infra, tools
-- 🏢 **[PepsiCo Obsidian Vault](https://github.com/soumendrak/pepsico-obsidian-vault)** — Johnny Decimal organised knowledge base
-
-## Open Source Contributions
-
-| Project | PR |
-|---------|----|
-| LangChain | [#31526](https://github.com/langchain-ai/langchain/pull/31526) |
-| Ragas | [#1390](https://github.com/explodinggradients/ragas/pull/1390) |
-| Localize OpenStreetMap | [#14](https://github.com/tracestrack/react-localize-osm/pull/14) |
-| Tabi (Zola Theme) | [#372](https://github.com/welpo/tabi/pull/372) |
-| Apollo (Zola Theme) | [#73](https://github.com/not-matthias/apollo/pull/73) |
-| Dictpress | [#41](https://github.com/knadh/dictpress/pull/41) |
-| Obsidian | [#985](https://github.com/obsidianmd/obsidian-translations/pull/985) |
-
 ## GitHub Stats
 
 <a href="https://github.com/soumendrak">
@@ -173,14 +132,6 @@ Staff Engineer (AI Observability) at **PepsiCo**. Building tools for AI reliabil
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/soumendrak_)
 
 ---
-
-### Recognition
-
-- **AWS ML Specialty Certified**
-- **M.Tech in Data Science**
-- Featured in **[The DevOps Pulse 2025 Survey Report](https://example.com)** — Emerging trends in observability
-- Open source contributor across LangChain, Ragas, and Obsidian ecosystems
-- Building the Odia open-source ecosystem — [openodia.com](https://openodia.com)
 
 > "Ship beats perfect" — I build tools to solve my own problems, then share them with the world. Currently exploring how AI observability changes everything about software reliability.
 
