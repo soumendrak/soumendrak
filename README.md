@@ -2,7 +2,7 @@
 
 📍 **Hyderabad, India** — 🔭 **AI Observability** — 🛠️ **Backend & Full-Stack Engineer** — 🌍 **Odia FOSS Advocate**
 
-Staff Engineer (AI Observability) at **PepsiCo**. Building tools for AI reliability, agent observability, and the Odia open-source ecosystem. 16+ years from COBOL to Rust — backend by trade, frontend by necessity.
+AI Observability Architect at **PepsiCo**. Building tools for AI reliability, agent observability, and the Odia open-source ecosystem. 16+ years from COBOL to Rust — backend by trade, frontend by necessity.
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
