@@ -130,5 +130,3 @@ A collection of single-file, zero-dependency HTML tools — dark theme, orange a
 [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5014656/soumendra)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@soumendrak)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/soumendrak_)
-
-![Profile View Counter](https://komarev.com/ghpvc/?username=soumendrak)
