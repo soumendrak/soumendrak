@@ -112,11 +112,11 @@ A collection of single-file, zero-dependency HTML tools — dark theme, orange a
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Who Am I?](https://www.soumendrak.com/blog/2026/06/who-am-i/)
 - [Week 23, 2026](https://www.soumendrak.com/weekly-notes/2026/23/)
 - [Week 22](https://www.soumendrak.com/weekly-notes/2026/22/)
 - [My Subagents Lied to Me: What Happened When I Let AI Research Autonomously](https://www.soumendrak.com/blog/2026/05/subagents-fabricate-data/)
 - [Week 21, 2026 · May 18-24: TILs, Clicker Games and Google I/O](https://www.soumendrak.com/weekly-notes/2026/21/)
-- [Week 20, 2026 · May 11-17: Two Agents, a Workshop and the Leap of Faith](https://www.soumendrak.com/weekly-notes/2026/20/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
