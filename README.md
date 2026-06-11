@@ -50,6 +50,7 @@ A collection of single-file, zero-dependency HTML tools — dark theme, orange a
 - 🔑 **[Passphrase Generator](https://github.com/soumendrak/passphrase)** — Diceware-style with 2,300+ words
 - 📐 **[Unit Converter](https://github.com/soumendrak/unit-convert)** — 35+ units, live updates across categories
 - 🔢 **[Text Counter](https://github.com/soumendrak/text-counter)** — character, word, sentence, reading time
+- 🛡️ **[YAML Validator](https://github.com/soumendrak/yaml-validator)** — CLI for YAML syntax, style, and schema validation
 
 ### Fun & Visual
 
