@@ -23,7 +23,7 @@ AI Observability Architect at **PepsiCo**. Building tools for AI reliability, ag
 - 🏛️ **[Openodia](https://openodia.com)** — tools, datasets, and AI resources for the Odia language
 - 🔤 **[Shabdarasa](https://shabdarasa.com)** — advanced Odia wordle game
 - 🌐 **[Portfolio](https://soumendrak.com)** — personal website, blog, and project showcase
-- 💡 **[TIL](https://til.soumendra.net)** — daily learnings on AI observability, infra, and tools
+- 💡 **[TIL](https://til.soumendrak.com)** — daily learnings on AI observability, infra, and tools
 
 ## Mini Projects
 
