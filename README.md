@@ -98,19 +98,40 @@ A collection of single-file, zero-dependency HTML tools — dark theme, orange a
 <a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./iso_calender.svg" />
 </a>
-
 <a href="https://github.com/soumendrak">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-<a href="https://github.com/soumendrak">
-    <img align="center" width="49%" src="./lines-of-code.svg" />
+  <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
+<a href="https://github.com/soumendrak">
+  <img align="center" width="49%" src="./lines-of-code.svg" />
+</a>
 <a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./github-habits.svg" />
 </a>
+
 <a href="https://github.com/soumendrak">
-    <img align="center" width="49%" src="./achievements.svg" />
+  <img align="center" width="49%" src="./achievements.svg" />
+</a>
+<a href="https://github.com/soumendrak">
+  <img align="center" width="49%" src="./notable.svg" />
+</a>
+
+<a href="https://github.com/soumendrak">
+  <img align="center" width="49%" src="./topics.svg" />
+</a>
+<a href="https://github.com/soumendrak">
+  <img align="center" width="49%" src="./activity.svg" />
+</a>
+
+<a href="https://github.com/soumendrak">
+  <img align="center" width="49%" src="./stackoverflow.svg" />
+</a>
+<a href="https://github.com/soumendrak">
+  <img align="center" width="49%" src="./stars.svg" />
+</a>
+
+<a href="https://github.com/soumendrak">
+  <img align="center" width="49%" src="./reactions.svg" />
 </a>
 
 ## Latest Blog Posts
