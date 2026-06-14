@@ -102,6 +102,9 @@ A collection of single-file, zero-dependency HTML tools — dark theme, orange a
 <a href="https://github.com/soumendrak">
     <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
+<a href="https://github.com/soumendrak">
+    <img align="center" width="49%" src="./lines-of-code.svg" />
+</a>
 
 <a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./github-habits.svg" />
