@@ -134,7 +134,6 @@ jobs:
           template: classic
           config_timezone: ${{ secrets.USER_TIMEZONE }}
           plugin_notable: yes
-          plugin_notable_indepth: yes
 
   topics:
     runs-on: ubuntu-latest
