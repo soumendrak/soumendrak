@@ -137,11 +137,11 @@ A collection of single-file, zero-dependency HTML tools — dark theme, orange a
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Observability Review for LLM, RAG, and Agent Systems](https://www.soumendrak.com/ai-observability-review/)
 - [Week 25, 2026 - Verbose prompts as a reliability problem, 14 years in IT, and the one-rupee argument for taxes](https://www.soumendrak.com/weekly-notes/2026/25/)
 - [The Trends of Engineering in AI: Prompt, Context, Harness, Loop, and Evaluation](https://www.soumendrak.com/blog/2026/06/ai-engineering-disciplines/)
 - [Week 24, 2026: Second brain infrastructure, export controls, and the AI race leaves the chatbox](https://www.soumendrak.com/weekly-notes/2026/24/)
 - [Who Am I?](https://www.soumendrak.com/blog/2026/06/who-am-i/)
-- [Week 23, 2026 — OTel graduation, Langfuse pipeline, memory systems, and the agent infrastructure stack](https://www.soumendrak.com/weekly-notes/2026/23/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
