@@ -137,11 +137,11 @@ A collection of single-file, zero-dependency HTML tools — dark theme, orange a
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 30, 2026 - Session Limit Hacks, Human Touch, and AI Worship Cults](https://www.soumendrak.com/weekly-notes/2026/30/)
 - [Adding Langfuse Observability to Hermes Agent &lpar;Self-Hosted, the Hard Parts Included&rpar;](https://www.soumendrak.com/blog/2026/07/adding-langfuse-observability-to-hermes-agent/)
 - [Week 29, 2026 - Signal vs Noise, Vendor Engineering, and Mapping My Readers](https://www.soumendrak.com/weekly-notes/2026/29/)
 - [Week 27, 2026 - Music-Evoked Chills, Forward Deployed Engineers, and Buddha Vihar](https://www.soumendrak.com/weekly-notes/2026/27/)
 - [Week 26, 2026 - Cheap Claude Tokens, Interview Cheating, and Navayana](https://www.soumendrak.com/weekly-notes/2026/26/)
-- [AI Observability Review for LLM, RAG, and Agent Systems](https://www.soumendrak.com/ai-observability-review/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
