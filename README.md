@@ -40,36 +40,17 @@ AI Observability Architect at **PepsiCo**. Building tools for AI reliability, ag
 </a>
 
 <a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-<a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./issue_pr_lang.svg" />
 </a>
 
 <a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./lines-of-code.svg" />
 </a>
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./achievements.svg" />
-</a>
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./notable.svg" />
-</a>
 
 <a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./topics.svg" />
 </a>
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./activity.svg" />
-</a>
 
-<a href="https://github.com/soumendrak">
-  <img align="center" width="49%" src="./stackoverflow.svg" />
-</a>
 <a href="https://github.com/soumendrak">
   <img align="center" width="49%" src="./stars.svg" />
 </a>
