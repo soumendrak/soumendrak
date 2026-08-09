@@ -62,11 +62,11 @@ AI Observability Architect at **PepsiCo**. Building tools for AI reliability, ag
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Distributed Tracing Works: Scrub It, Poke It, Break It](https://www.soumendrak.com/blog/2026/08/how-distributed-tracing-works/)
 - [Week 32, 2026 - The EU AI Act as an Observability Spec, Overruling My Research Agent, and Leaving Conductor](https://www.soumendrak.com/weekly-notes/2026/32/)
 - [Week 31, 2026 - Consolidating Tools, AI Interview Cheating, and Agents That Delete Your Skills](https://www.soumendrak.com/weekly-notes/2026/31/)
 - [Stop Trying to Spot AI Cheating. Design Interviews That Expose Shallow Understanding](https://www.soumendrak.com/blog/2026/06/ai-cheating/)
 - [Week 30, 2026 - Session Limit Hacks, Human Touch, and AI Worship Cults](https://www.soumendrak.com/weekly-notes/2026/30/)
-- [Adding Langfuse Observability to Hermes Agent &lpar;Self-Hosted, the Hard Parts Included&rpar;](https://www.soumendrak.com/blog/2026/07/adding-langfuse-observability-to-hermes-agent/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
