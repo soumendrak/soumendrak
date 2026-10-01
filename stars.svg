@@ -23,7 +23,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>honeycombio/refinery</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Refinery is a trace-aware tail-based sampling proxy. It examines whole traces and intelligently applies sampling decisions (whether to keep or discard) to each trace.</div>
