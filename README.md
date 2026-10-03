@@ -86,17 +86,3 @@ AI Observability Architect at **PepsiCo**. Building tools for AI reliability, ag
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ai_soumendrak/)
 
 [Personal YouTube](https://www.youtube.com/@SoumendraSahooAIGuy) · [OpenOdia community YouTube](https://www.youtube.com/@openodia)
-
-<!-- BLOG-POST-LIST:END -->
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/soumendrak)
-[![X](https://img.shields.io/badge/-@soumendrak_-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/soumendrak_)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumendrak)
-[![Blog](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=hugo&logoColor=white)](https://soumendrak.com)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/soumendrak)
-[![Hashnode](https://img.shields.io/badge/-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://soumendrak.hashnode.dev)
-[![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5014656/soumendra)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@soumendrak)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/soumendrak_)
