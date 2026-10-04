@@ -66,11 +66,11 @@ AI Observability Architect at **PepsiCo**. Building tools for AI reliability, ag
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 40, 2026 - Trace Sampling, Rereading and Small Kindnesses](https://www.soumendrak.com/weekly-notes/2026/40/)
 - [AI Observability: Practical Guides, Code and Agent Reliability](https://www.soumendrak.com/ai-observability/)
 - [Week 39, 2026 - Weekly Notes, AI Agents and OpenOdia](https://www.soumendrak.com/weekly-notes/2026/39/)
 - [Week 34, 2026 - AI Stops Being the Story and Becomes the Pipeline](https://www.soumendrak.com/weekly-notes/2026/34/)
 - [Week 33, 2026 - Traces as Documentation, the Observability Land Grab and Search I Host Myself](https://www.soumendrak.com/weekly-notes/2026/33/)
-- [How Distributed Tracing Works: Scrub It, Poke It, Break It](https://www.soumendrak.com/blog/2026/08/how-distributed-tracing-works/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
