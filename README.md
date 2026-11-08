@@ -66,11 +66,11 @@ AI Observability Architect at **PepsiCo**. Building tools for AI reliability, ag
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Week 45, 2026 - Reviewer Bot Ego, Dedicated Accounts and Agent Managers](https://www.soumendrak.com/weekly-notes/2026/45/)
 - [Week 44, 2026 - Workshop No-Shows, Agent Sampling and a Tougher Reviewer Bot](https://www.soumendrak.com/weekly-notes/2026/44/)
 - [Week 43, 2026 - Five Grok Bots, Tidy Traces Search and Agent PRs](https://www.soumendrak.com/weekly-notes/2026/43/)
 - [Week 42, 2026 - Python 3.15, Tidy Traces and Bot Workflows](https://www.soumendrak.com/weekly-notes/2026/42/)
 - [Week 41, 2026 - Grok Bots, Two Reviews and Token Limits](https://www.soumendrak.com/weekly-notes/2026/41/)
-- [Week 40, 2026 - Trace Sampling, Rereading and Small Kindnesses](https://www.soumendrak.com/weekly-notes/2026/40/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect
